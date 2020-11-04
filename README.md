@@ -1,1 +1,2 @@
-# DUSTBIN-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
